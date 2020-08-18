@@ -2,9 +2,9 @@
 
 I'm Full Stack developer with Aircraft Maintenance Engineer background!
 
-🌱 I just recently graduated from Full Stack coding program at Univercity of Toronto
-👯 I’m looking for Junior Web developer opportunities
-📫 How to reach me:
+-🌱 I just recently graduated from Full Stack coding program at Univercity of Toronto
+-👯 I’m looking for Junior Web developer opportunities
+-📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/aige-mao/)
 - [Website](https://etammao.github.io/Portfolio/)
